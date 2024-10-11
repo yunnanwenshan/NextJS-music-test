@@ -4,3 +4,5 @@ fileChangeLogs:
   - .pnpm-store
   - .gitignore
   - testfile.txt
+  - package-lock.json
+  - .env
