@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-color: lightyellow;
+}
+
+button {
+  background-color: blue;
+  color: white;
+  width: 100px;
+  height: 50px;
+  font-size: 20px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  position: relative;
+}
+
+/* Add border styles for 歌手 (Singer) and 歌名 (Song Name) fields */
+.singer-field,
+.song-name-field {
+  border: 2px solid #000; /* Black border with 2px thickness */
+  padding: 8px; /* Add some padding inside the fields */
+  border-radius: 4px; /* Slightly rounded corners */
+}
