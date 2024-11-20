@@ -1,5 +1,0 @@
-fileChangeLogs:
-  - node_modules
-  - package-lock.json
-  - '.1024'
-  - .gitignore
