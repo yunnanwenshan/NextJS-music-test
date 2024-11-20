@@ -59,6 +59,8 @@ Thumbs.db
 node_modules/
 .pnp/
 .pnp.js
+.1024
+.1024nix
 
 # Specific language files
 *.pem
@@ -70,3 +72,40 @@ pnpm-lock.yaml
 /public/audio/*
 /public/cover/*
 .pnpm-store/
+
+# System and Version Control Files
+.git/
+.DS_Store
+Thumbs.db
+.nfs*
+
+# Dependencies and Build Artifacts
+node_modules/
+.pnpm-store/
+dist/
+env/
+venv/
+vendor/
+
+# Logs, Temporary, and Backup Files
+*.log
+*.tmp
+*.bak
+*.old
+*.pid
+*.seed
+*.pid.lock
+
+# Environment and Configuration Files
+.env
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# JavaScript/TypeScript
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+*.tsbuildinfo
