@@ -1,0 +1,7 @@
+fileChangeLogs:
+  - .pnpm-store
+  - node_modules
+  - pnpm-lock.yaml
+  - '.1024'
+  - .gitignore
+  - .next
