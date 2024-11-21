@@ -39,7 +39,7 @@ package-lock.json
 
 # Clacky related files
 .1024*
-
+.1024
 # System specific files
 .DS_Store
 Thumbs.db
