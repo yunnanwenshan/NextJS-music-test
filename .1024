@@ -1,1 +1,1 @@
-run_command: HOST=0.0.0.0 PORT=8080 pnpm run dev
+run_command: host: 0.0.0.0, port: 8080
