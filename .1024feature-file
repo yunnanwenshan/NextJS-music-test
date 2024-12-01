@@ -5,3 +5,10 @@ fileChangeLogs:
   - '.1024'
   - .gitignore
   - .next
+  - README.md
+  - hh.txt
+  - jest.config.js
+  - __tests__/api/audio.test.ts
+  - __tests__/api/user.test.ts
+  - __tests__/pages/home.test.tsx
+  - package.json
